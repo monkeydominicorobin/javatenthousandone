@@ -4,14 +4,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I used Unix based system so if you are comfortable with this kinds of system you will be familiar with the console prompt. I have used Embeddable Compact Java(ECJ) to convert this JAVA source file into a class file. To install ECJ you have to install it by typing the command below and pressing the RETURN key.
 
-```
-rommeldominguez@linux~: apt-get install ecj
-```
+
+`rommeldominguez@linux~: apt-get install ecj`
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After installing ECJ you will also need to install DX to convert class file into a Dalvik Executable or DEX.
 
-```
-rommeldominguez@linux~: apt-get install dx```
+
+`rommeldominguez@linux~: apt-get install dx`
+
 
 **Donate Monero(XMR):**
 ![mymonero](https://user-images.githubusercontent.com/11310584/202197042-bff8c4fd-e636-4907-a881-0a8c6f9f37e6.png)
